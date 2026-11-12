@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/3050132558/.png/hilol.js",
+      "source": "/(.*)",
       "destination": "/api/index.js"
     }
   ]
